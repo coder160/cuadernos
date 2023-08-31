@@ -16,6 +16,8 @@ Trataré de documentar mi camino en programación y al mismo tiempo compartir pa
 
 - **<a href="https://github.com/coder160/cuadernos/blob/main/Expresiones_Regulares.ipynb">Expresiones Regulares**</a> - Métodos Interactivos con `Python` y `re`.
 
+<a href="https://colab.research.google.com/github/coder160/cuadernos/blob/main/Expresiones_Regulares.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+
 ---
 ## Configuración Inicial
 
@@ -37,6 +39,8 @@ Estos son algunos de los cuadernos disponibles:
 
 #### Expresiones Regulares
 
+<a href="https://colab.research.google.com/github/coder160/cuadernos/blob/main/Expresiones_Regulares.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+
 Es un cuaderno hecho en Google Colab utilizando `Python`.
 Incluye documentación del módulo `re` de `Python`.
 
@@ -56,6 +60,11 @@ Mi forma de contribuir será aplicar las mejoras en cada proyecto de código lib
 
 ---
 ## Enlaces
+
+- **<a href="https://github.com/coder160/cuadernos/blob/main/Expresiones_Regulares.ipynb">Expresiones Regulares**</a> |
+<a href="https://colab.research.google.com/github/coder160/cuadernos/blob/main/Expresiones_Regulares.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+Métodos Interactivos con `Python` y `re`. 
+
 
 
 ---
