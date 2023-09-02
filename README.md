@@ -15,7 +15,7 @@ Trataré de documentar mi camino en programación y al mismo tiempo compartir pa
 
 
 - **<a href="https://github.com/coder160/cuadernos/blob/main/Expresiones_Regulares/Expresiones_Regulares.ipynb">
-Expresiones Regulares**</a> - Métodos Interactivos con `Python` y `re`. <a href="https://colab.research.google.com/github/coder160/cuadernos/blob/main/Expresiones_Regulares.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+Expresiones Regulares**</a> - Métodos Interactivos con `Python` y `re`. <a href="https://github.com/coder160/cuadernos/blob/main/Expresiones_Regulares/Expresiones_Regulares.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
 
 - **<a href="https://github.com/coder160/cuadernos/blob/main/Vision_Artificial/VISION_AI_intro.ipynb">
 Visión Articicial**</a> - ¿Qué es Visión Artificial?. <a href="https://github.com/coder160/cuadernos/blob/main/Vision_Artificial/VISION_AI_intro.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
